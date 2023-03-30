@@ -1,0 +1,4 @@
+{
+  "prettier.configPath": "./.prettierrc.js",
+  "python.defaultInterpreterPath": "./venv/bin/python",
+}
